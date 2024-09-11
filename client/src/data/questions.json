@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "How would you rate the overall user experience of the event management system?",
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "Were you able to easily navigate through the system to perform your desired tasks?",
+    "answer": ""
+  },
+  {
+    "id": 3,
+    "question": "Did the system meet your expectations in terms of functionality?",
+    "answer": ""
+  },
+  {
+    "id": 4,
+    "question": "Were there any features or functionalities that you found particularly useful or beneficial?",
+    "answer": ""
+  },
+  {
+    "id": 5,
+    "question": "Were there any aspects of the system that you found confusing or difficult to use?",
+    "answer": ""
+  },
+  {
+    "id": 6,
+    "question": "Did you encounter any technical issues or bugs while using the system? If so, please describe.",
+    "answer": ""
+  },
+  {
+    "id": 7,
+    "question": "How satisfied are you with the communication and support provided by the system's team?",
+    "answer": ""
+  },
+  {
+    "id": 8,
+    "question": "Did the system help streamline the event planning and management process for you and your team?",
+    "answer": ""
+  },
+  {
+    "id": 9,
+    "question": "How would you rate the system's performance in terms of speed and responsiveness?",
+    "answer": ""
+  },
+  {
+    "id": 10,
+    "question": "Do you have any suggestions or feedback for improving the event management system?",
+    "answer": ""
+  }
+]
